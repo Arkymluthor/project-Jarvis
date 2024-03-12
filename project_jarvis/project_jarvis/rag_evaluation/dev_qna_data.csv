@@ -1,0 +1,74 @@
+question,ground_truth
+How do we authenticate User licenses?,"User licenses, based on the customers Autodesk ID, are automatically authenticated when the customer first runs a product after signing in to Autodesk Account."
+How do we authenticate Standalone licenses?,"Standalone licenses are tied to specific devices and use serial numbers. When customers first run the product, standalone licenses are authenticated either silently by Autodesk servers or when customers are prompted to enter a serial number."
+How many types of licenses do adminstrators manage?,"Administrators manage three types of licenses, according to the subscription type.
+ 
+ 
+ 
+ User licenses
+ 
+ Standalone (device-based) licenses
+ 
+ Network licenses"
+What is Fusion 360 for Manufacturing?,"Autodesk Fusion 360 for Manufacturing is an integrated solution for product development and manufacturing organizations. It includes Fusion 360, paired with specialized tools for product design, manufacturing, and data management."
+What are Advanced CAM capabilities?,"Unlock advanced tools for multi-axis CNC machining, multi-sheet nesting, and additive manufacturing"
+Who uses the Fusion 360 for Manufacturing offering?,"Fusion 360 for Manufacturing is built for organizations that want to increase innovation, reduce development costs, and start manufacturing sooner. These organizations typically consist of manufacturing engineers, machinists, and programmers tasked with the responsibility for manufacturing a product. This often requires the production of a tool path/machine-programming, and/or nesting of designs for fabrication, and/or planning/programming for 3D printing."
+How does Fusion 360 for Manufacturing differ to Fusion 360 extensions?,"Autodesk offers a range of Fusion 360 extensions that unlock additional capabilities within the core Fusion 360 product. The Fusion 360 for Manufacturing offering differs in that it combines multiple extensions to provide an integrated solution for product development and manufacturing organizations. The offering includes the Machining Extension, Nesting & Fabrication Extension, and Additive Build Extension to empower you to bring your products to life with advanced machining, fabrication, and 3D printing capabilities. The offering also includes the Product Design Extension and the Manage Extension to enable design innovation and data management across your company departments and geographies."
+Does Autodesk offer free software for students and educators?,"If you are a student, educator, or an IT or lab administrator for an educational institution, enjoy free access to Autodesk products through the Education plan. Confirm your eligibility through the Autodesk Education Community and download software for your own use, or to assign to students."
+What are the Flexnet feature codes,"Feature codes come in three types: product-specific on a maintenance plan, product-specific subscription with multi-user access, and product version-specific. For example:
+ 
+ 
+ 
+ 64300ACD_F indicates a perpetual license of AutoCAD on a maintenance plan.
+ 
+ 
+ 
+ 64300ACD_T_Findicates a subscription of AutoCAD with multi-user access.
+ 
+ 
+ 
+ 87393ACD_2021_0F indicates a specific product and version: AutoCAD 2021."
+What are the uses of Revit + AutoCAD + Civil 3D,"USE IT FOR: Building design, Infrastructure design Construction. WHY: Design and build with efficiency, precision, and quality. Take advantage of BIM and CAD tools that give every designer, engineer, and contractor the ability to create in new ways, explore what's possible, and build with confidence."
+How to Manage packages?,"Saving your deployment and installer packages lets you reuse them as many times as needed without having to recreate them. To make a change, such as adding a new product or updating an existing one, just edit the package and save it again. From the library view, you can choose quick actions like download, edit and delete for saved packages."
+What is construction cost estimation?,"Construction cost estimating systematically forecasts all costs associated with completing a project within a defined scope. In other words, any cost incurred to see a project through must fall under this heading. 
+ 
+ 
+ 
+ The cost estimate serves as a roadmap for a project to be bid on and built. Accurate construction cost estimates help determine if a project is feasible to build within a budget. 
+ 
+ 
+ 
+ If a project is overestimated, a contractor may lose out on an important bid and tarnish a relationship with an owner. Underestimate, and a contractor is now open to the risk of additional expenses that could create significant project disputes that put their reputation and business on the line."
+What is Bifrost?,"Bifrost is a visual programming environment inside of Maya for creating stunning procedural effects for film, tv, and games. Create realistic simulations and effects from explosions to cloth. Scatter objects procedurally to build detailed environments. Create and edit USD scenes with an open-source USD integration."
+What is Autodesk's approach to interviews? How does the process work?,"The interview process helps us get to know you, and helps you learn about our people, culture, and business. We ask about your skills and experience, and you can ask us questions as well. Be prepared to tell us about your achievements and the value you could bring to Autodesk.â€¯
+ 
+ 
+ 
+ In a typical interview process, you will first meet with a recruiter, then the hiring manager. Next, you may also be asked to take a functional assessment. After that, you will meet with an interview team, typically 3-4 people.
+ 
+ 
+ 
+ Timing may vary based on role and location, so we suggest you speak with the recruiter for details specific to a particular role."
+What is the Covid-19 vaccination policy at Autodesk?,"While we still strongly encourage all employees to get vaccinated for their own health, we currently do not require employees to be vaccinated. We will continue to review vaccine and testing requirements in response to the dynamic and evolving circumstances of the COVID-19 pandemic, as the health and safety of our employees remain our top priority.â€¯
+ 
+ 
+ 
+ Candidates with in-person interviews at an Autodesk office will be considered â€œvisitorsâ€ and are required to follow the same visitor guidelines (either be vaccinated or have a negative antigen test on the day of entering the office)."
+How did the study compare between the basic AutoCAD to the Mechanical toolset when performing nine tasks commonly used by mechanical engineers.,"Autodesk commissioned a study that compared basic AutoCAD to the Mechanical toolset when performing nine tasks commonly used by mechanical engineers.
+ 
+ Results showed that the Mechanical toolset provided over 55% overall productivity gain* compared with basic AutoCAD, when these tasks were performed by an experienced AutoCAD user."
+What is the role of the Strategic Foresight team?,"The Strategic Foresight team explores future scenarios in a STEEP (Social, Technological, Economic, Environmental, and Political) framework to identify drivers of emerging themes and patterns, and how those will impact our company, our customers, and our customerscustomers. The goal of Strategic Foresight is to anticipate and prepare for change while examining how current factors might signal whats to come."
+What is the use of Design Review CAD viewer?,"Design Review CAD viewer software lets you view, mark up, print, and track changes to 2D and 3D files for freeâ€”without the original design software. Work with a variety of file formats, including: DWF, DWFx, DWG, and DXF (requires installation of free DWG TrueView software); Adobe PDF; as well as image file types such as.bmp, .jpg, .gif, .pcx, .pct, .png, .rlc, .tga, .tif, .mil, .cal, and more."
+What are the use of Autodesk AEC Public Roadmaps?,"These roadmaps share a view of the feature development pipeline from Autodesk AEC product teams. Cards with a â€œðŸ’¡â€ mean the feature request originated from Community Ideas. For more on voting on ideas or posting new ideas, read this article in the Autodesk Community Forums. Bookmark this page and subscribe to the AEC Tech Drop blog to never miss an update."
+How does the bridge design workflow work?,"Bringing together three of our design tools. Autodesk InfraWorks, Autodesk Civil 3D and Autodesk Revit â€” the bridge design workflow connects the road design, bridge design and documentations team in one project model. This applies to teams within one organization as well as in partner organizations. If your business often partners with others, you can still enjoy the collaboration benefits of the bridge design workflow"
+I would like to speak to a Fusion 360 expert,"Would you like to speak to someone immediately?, Call 1-833-843-3437 to speak with a Fusion 360 expert."
+What is the role of the License Compliance Team and how can they help me?,"The License Compliance Team enforces Autodesk Terms of Use and helps customers resolve any instances of noncompliant software installation and usage. We want to help all our customers optimize their software and mitigate compliance risks. That's why your company may be selected to undergo an audit, also known as a Software License Review."
+What is the Autodesk Inventory Tool,"The Autodesk Inventory Tool (AIT) is an Autodesk approved tool that is used to scan your devices when conducting an audit or Software License Review. For questions about how to use AIT, please reach out to your License Compliance representative."
+When is Dynamo Studio no longer available?,"As of June 7, 2021, Dynamo Studio will no longer be available for purchase. Starting January 31, 2022, Dynamo Studio will be discontinued and removed from the Autodesk AEC Collection."
+Where can prospective suppliers register?,"All prospective suppliers are required to register on our prospective supplier portal, Supplier Gateway, a global, searchable database used by Autodesk employees to identify potential suppliers. Registration includes providing your company’s basic business information, products and services offered, and uploading certification documents to validate your diverse ownership, if applicable."
+What is Fusion 360 with Netfabb,"Autodesk Fusion 360 with Netfabb offers a complete toolset for design and implementation in additive manufacturing. Powerful workflow automation for streamlining 3D print preparation. Intuitive tools for repairing, orienting, arranging, and preparing 3D files for printing. Lightweight with latticing and hollowing tools then generate parametric supports."
+Package licenses for?industry collections,"Package licenses for industry collections allow every product in the industry collection to run with a shared license regardless of the release. For example, suppose you have a package license for the Product Design Collection. If so, you can run AutoCAD 2021 and AutoCAD 2020 at the same time (for multi-user only, one license consumed). And you can run AutoCAD 2021 and 3ds Max 2020 at the same time (for single or multi-user, one license consumed)."
+How mixed licenses are consumed,"If a license file contains a mix of different license types for the same product, a ranking logic determines which licenses from the pool are consumed first. Subscription licenses are consumed first, followed by perpetual licenses. Also, point products are consumed before collections that include the point product, which in turn are consumed before suites that include the point product. This logic optimizes the number of available licenses by assigning suite licenses only when no other licenses are available."
+What can I do with the Revit Quick Start Guide,"The Revit Quick Start Guide helps you improve your skills. For first-time users, Key Revit concepts, Revit driver’s manual, and the User interface tour are a great place to start. If you already understand the fundamentals, the Basic tasks and Project management articles show you how to design in Revit. Finally, if you want to work with a larger project, the Sample project files show how to use Revit on a project."
+What is the use of Navisworks Manage?,"Control outcomes with clash detection and advanced coordination, 5D analysis, and simulation tools."
+Use of NOV FIBER GLASS SYSTEMS,Transforming glass-fiber infrastructure with connected design and manufacturing utilizing Vault for PowerMill

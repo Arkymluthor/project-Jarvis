@@ -1,0 +1,17 @@
+aiohttp==3.8.5
+azure-search-documents==11.6.0b1
+azure-identity==1.15.0
+azure-storage-blob==12.19.1
+botbuilder_core==4.14.8
+botbuilder_integration_aiohttp==4.14.8
+botbuilder_schema==4.14.8
+langchain==0.1.11
+langchain_community==0.0.27
+langchain_core==0.1.30
+langchain_openai==0.0.8
+openai==1.13.3
+python-dotenv==1.0.1
+poetry ==1.8.2
+python-magic-bin==0.4.14
+
+
